@@ -1,0 +1,352 @@
+id,town_id,type,fips_stco,district,mora_start,mora_end,ohs,mapctype,mapcsub,mora_c,mora_nf,mora_np,HNS
+BROCKTON,"44",C,25023,metrosouth,,,false,Regional Urban Centers,Major Regional Urban Centers,false,false,false,true
+WINDSOR,"345",T,25003,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+CHESTER,"59",T,25013,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+ASHFIELD,"13",T,25011,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+BOSTON,"35",C,25025,eastern,2021/08/31,2022/03/31,true,Inner Core,Metro Core,false,true,true,true
+ABINGTON,"1",T,25023,metrosouth,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+WHITMAN,"338",T,25023,metrosouth,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+WALES,"306",T,25013,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+BRAINTREE,"40",TC,25021,metrosouth,,,false,Maturing Suburbs,Mature Suburban Towns,false,false,false,false
+EVERETT,"93",C,25017,northeast,,,false,Inner Core,Metro Core,false,false,false,true
+FRAMINGHAM,"100",C,25017,central,2021/02/09,2021/06/15,false,Regional Urban Centers,Sub-Regional Urban Center,false,true,true,false
+CHESTERFIELD,"60",T,25015,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+MIDDLEBOROUGH,"182",T,25023,southeast,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+SHERBORN,"269",T,25017,central,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+DUXBURY,"82",T,25023,southeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+WENHAM,"320",T,25009,northeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+SPRINGFIELD,"281",C,25013,western,,,false,Regional Urban Centers,Major Regional Urban Centers,false,false,false,false
+WILBRAHAM,"339",T,25013,western,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+LAWRENCE,"149",C,25009,northeast,2020/03/18,2020/05/18,false,Regional Urban Centers,Major Regional Urban Centers,false,false,false,false
+RANDOLPH,"244",TC,25021,metrosouth,,,false,Maturing Suburbs,Mature Suburban Towns,false,false,false,false
+WESTBOROUGH,"328",T,25027,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+OAKHAM,"222",T,25027,central,,,false,Rural Towns,Rural Towns,false,false,false,false
+WEST BROOKFIELD,"323",T,25027,central,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+QUINCY,"243",C,25021,metrosouth,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+COHASSET,"65",T,25021,metrosouth,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+BELLINGHAM,"25",T,25021,metrosouth,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+HAWLEY,"129",T,25011,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+GRANVILLE,"112",T,25013,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+PEPPERELL,"232",T,25017,northeast,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+CAMBRIDGE,"49",C,25017,eastern,2020/04/03,2021/06/15,false,Inner Core,Metro Core,true,true,true,false
+MOUNT WASHINGTON,"195",T,25003,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+HULL,"142",T,25023,southeast,,,false,Maturing Suburbs,Mature Suburban Towns,false,false,false,false
+HARDWICK,"124",T,25027,central,,,false,Rural Towns,Rural Towns,false,false,false,false
+ASHBY,"12",T,25017,central,,,false,Rural Towns,Rural Towns,false,false,false,false
+EGREMONT,"90",T,25003,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+MARION,"169",T,25023,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+MEDFORD,"176",C,25017,eastern,,,false,Inner Core,Streetcar Suburbs,false,false,false,false
+DARTMOUTH,"72",T,25005,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+WILLIAMSBURG,"340",T,25015,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+HEATH,"130",T,25011,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+BLANDFORD,"33",T,25013,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+CLARKSBURG,"63",T,25003,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+NORFOLK,"208",T,25021,metrosouth,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+AYER,"19",T,25017,northeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+FLORIDA,"98",T,25003,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+SALEM,"258",C,25009,northeast,2020/04/15,2021/06/15,false,Regional Urban Centers,Sub-Regional Urban Center,true,true,true,false
+TEWKSBURY,"295",T,25017,northeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+MONROE,"190",T,25011,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+SHEFFIELD,"267",T,25003,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+LEVERETT,"154",T,25011,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+ROYALSTON,"255",T,25027,central,,,false,Rural Towns,Rural Towns,false,false,false,false
+HOLDEN,"134",T,25027,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+WINTHROP,"346",TC,25025,eastern,,,false,Inner Core,Streetcar Suburbs,false,false,false,false
+DIGHTON,"76",T,25005,southeast,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+HINSDALE,"132",T,25003,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+SHUTESBURY,"272",T,25011,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+NEWBURY,"205",T,25009,northeast,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+TOLLAND,"297",T,25013,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+HUNTINGTON,"143",T,25015,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+FOXBOROUGH,"99",T,25021,metrosouth,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+WELLFLEET,"318",T,25001,southeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+SOUTH HADLEY,"275",T,25015,western,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+HANCOCK,"121",T,25003,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+WORCESTER,"348",C,25027,central,,,false,Regional Urban Centers,Major Regional Urban Centers,false,false,false,false
+SWAMPSCOTT,"291",T,25009,northeast,,,false,Maturing Suburbs,Mature Suburban Towns,false,false,false,false
+MEDFIELD,"175",T,25021,metrosouth,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+CARLISLE,"51",T,25017,northeast,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+LEYDEN,"156",T,25011,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+PEMBROKE,"231",T,25023,southeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+WINCHENDON,"343",T,25027,central,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+GROTON,"115",T,25017,northeast,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+ASHBURNHAM,"11",T,25027,central,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+CHELMSFORD,"56",T,25017,northeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+BOXBOROUGH,"37",T,25017,northeast,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+ADAMS,"4",T,25003,western,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+MILLIS,"187",T,25021,metrosouth,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+WEST STOCKBRIDGE,"326",T,25003,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+PLYMPTON,"240",T,25023,southeast,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+BERKLEY,"27",T,25005,southeast,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+DANVERS,"71",T,25009,northeast,,,false,Maturing Suburbs,Mature Suburban Towns,false,false,false,false
+MONTAGUE,"192",T,25011,western,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+PERU,"233",T,25003,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+RICHMOND,"249",T,25003,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+DOUGLAS,"77",T,25027,central,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+YARMOUTH,"351",T,25001,southeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+ALFORD,"6",T,25003,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+DRACUT,"79",T,25017,northeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+GROVELAND,"116",T,25009,northeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+CONWAY,"68",T,25011,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+HOLBROOK,"133",T,25021,metrosouth,,,false,Maturing Suburbs,Mature Suburban Towns,false,false,false,false
+WALTHAM,"308",C,25017,northeast,,,false,Inner Core,Streetcar Suburbs,false,false,false,false
+SAVOY,"263",T,25003,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+SOMERVILLE,"274",C,25017,eastern,2020/03/28,2022/06/30,true,Inner Core,Metro Core,true,true,true,false
+WALPOLE,"307",T,25021,metrosouth,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+LYNN,"163",C,25009,northeast,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,true
+SHARON,"266",T,25021,metrosouth,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+CANTON,"50",T,25021,metrosouth,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+DOVER,"78",T,25021,metrosouth,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+MILLVILLE,"188",T,25027,central,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+BEVERLY,"30",C,25009,northeast,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+AQUINNAH,"104",T,25007,southeast,,,false,Rural Towns,Rural Towns,false,false,false,false
+BARNSTABLE,"20",TC,25001,southeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+NANTUCKET,"197",T,25019,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+EDGARTOWN,"89",T,25007,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+CUMMINGTON,"69",T,25015,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+TYRINGHAM,"302",T,25003,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+SWANSEA,"292",T,25005,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+FAIRHAVEN,"94",T,25005,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+SCITUATE,"264",T,25023,southeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+WAREHAM,"310",T,25023,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+TAUNTON,"293",C,25005,southeast,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+OTIS,"225",T,25003,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+HANOVER,"122",T,25023,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+HINGHAM,"131",T,25023,southeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+FREETOWN,"102",T,25005,southeast,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+NORWELL,"219",T,25023,southeast,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+KINGSTON,"145",T,25023,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+GREENFIELD,"114",C,25011,western,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+TRURO,"300",T,25001,southeast,,,false,Rural Towns,Rural Towns,false,false,false,false
+WORTHINGTON,"349",T,25015,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+REHOBOTH,"247",T,25005,southeast,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+SHIRLEY,"270",T,25017,northeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+NORWOOD,"220",T,25021,metrosouth,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+WARWICK,"312",T,25011,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+BELCHERTOWN,"24",T,25015,western,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+WEST BRIDGEWATER,"322",T,25023,metrosouth,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+BREWSTER,"41",T,25001,southeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+WINCHESTER,"344",T,25017,northeast,,,false,Maturing Suburbs,Mature Suburban Towns,false,false,false,false
+ROCKLAND,"251",T,25023,metrosouth,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+MANSFIELD,"167",T,25005,southeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+HUDSON,"141",T,25017,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+FALL RIVER,"95",C,25005,southeast,,,false,Regional Urban Centers,Major Regional Urban Centers,false,false,false,true
+STONEHAM,"284",T,25017,northeast,,,false,Maturing Suburbs,Mature Suburban Towns,false,false,false,false
+STOW,"286",T,25017,northeast,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+MERRIMAC,"180",T,25009,northeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+WAKEFIELD,"305",T,25017,northeast,,,false,Maturing Suburbs,Mature Suburban Towns,false,false,false,false
+HUBBARDSTON,"140",T,25027,central,,,false,Rural Towns,Rural Towns,false,false,false,false
+MONTGOMERY,"194",T,25013,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+CHESHIRE,"58",T,25003,western,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+NEWBURYPORT,"206",C,25009,northeast,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+ORLEANS,"224",T,25001,southeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+OXFORD,"226",T,25027,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+TISBURY,"296",T,25007,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+OAK BLUFFS,"221",T,25007,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+DALTON,"70",T,25003,western,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+AMHERST,"8",T,25015,western,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+GOSHEN,"108",T,25015,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+FRANKLIN,"101",TC,25021,metrosouth,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+WRENTHAM,"350",T,25021,metrosouth,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+WHATELY,"337",T,25011,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+WASHINGTON,"313",T,25003,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+BERNARDSTON,"29",T,25011,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+GRAFTON,"110",T,25027,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+DUNSTABLE,"81",T,25017,northeast,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+FALMOUTH,"96",T,25001,southeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+ROWE,"253",T,25011,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+MIDDLEFIELD,"183",T,25015,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+COLRAIN,"66",T,25011,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+NEEDHAM,"199",T,25021,metrosouth,,,false,Maturing Suburbs,Mature Suburban Towns,false,false,false,false
+CHELSEA,"57",C,25025,eastern,,,false,Inner Core,Metro Core,false,false,false,true
+MALDEN,"165",C,25017,northeast,2020/12/21,2022/02/28,false,Inner Core,Metro Core,false,true,true,false
+NORTON,"218",T,25005,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+WEBSTER,"316",T,25027,central,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+BOLTON,"34",T,25027,central,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+BECKET,"22",T,25003,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+GEORGETOWN,"105",T,25009,northeast,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+NEW MARLBOROUGH,"203",T,25003,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+WILLIAMSTOWN,"341",T,25003,western,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+BILLERICA,"31",T,25017,northeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+BUCKLAND,"47",T,25011,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+TOPSFIELD,"298",T,25009,northeast,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+BOXFORD,"38",T,25009,northeast,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+EASTON,"88",T,25005,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+ACTON,"2",T,25017,northeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+METHUEN,"181",C,25009,northeast,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+LANCASTER,"147",T,25027,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+NORTHBOROUGH,"215",T,25027,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+STOCKBRIDGE,"283",T,25003,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+PLAINVILLE,"238",T,25021,metrosouth,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+MARBLEHEAD,"168",T,25009,northeast,,,false,Maturing Suburbs,Mature Suburban Towns,false,false,false,false
+MILFORD,"185",T,25027,central,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+ARLINGTON,"10",T,25017,eastern,,,false,Inner Core,Streetcar Suburbs,false,false,false,false
+LEXINGTON,"155",T,25017,northeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+CHARLEMONT,"53",T,25011,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+WESTWOOD,"335",T,25021,metrosouth,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+RUSSELL,"256",T,25013,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+SHELBURNE,"268",T,25011,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+SANDISFIELD,"260",T,25003,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+NEW BRAINTREE,"202",T,25027,central,,,false,Rural Towns,Rural Towns,false,false,false,false
+NEW SALEM,"204",T,25011,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+EAST BROOKFIELD,"84",T,25027,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+HAMILTON,"119",T,25009,northeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+ACUSHNET,"3",T,25005,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+ORANGE,"223",T,25011,western,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+BROOKFIELD,"45",T,25027,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+GRANBY,"111",T,25015,western,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+ATTLEBORO,"16",C,25005,southeast,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+ATHOL,"15",T,25027,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+PELHAM,"230",T,25015,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+BRIMFIELD,"43",T,25013,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+NORTHFIELD,"217",T,25011,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+WESTFORD,"330",T,25017,northeast,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+NORTH READING,"213",T,25017,northeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+GARDNER,"103",C,25027,central,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+MIDDLETON,"184",T,25009,northeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+ROCKPORT,"252",T,25009,northeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+WEST TISBURY,"327",T,25007,southeast,,,false,Rural Towns,Rural Towns,false,false,false,false
+FITCHBURG,"97",C,25027,central,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+WEST SPRINGFIELD,"325",TC,25013,western,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+PEABODY,"229",C,25009,northeast,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+LANESBOROUGH,"148",T,25003,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+NEW ASHFORD,"200",T,25003,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+WESTHAMPTON,"331",T,25015,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+EASTHAMPTON,"87",C,25015,western,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+WARREN,"311",T,25027,central,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+SUNDERLAND,"289",T,25011,western,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+ERVING,"91",T,25011,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+BRIDGEWATER,"42",TC,25023,metrosouth,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+GLOUCESTER,"107",C,25009,northeast,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+SOUTHAMPTON,"276",T,25015,western,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+UXBRIDGE,"304",T,25027,central,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+GOSNOLD,"109",T,25007,southeast,,,false,Rural Towns,Rural Towns,false,false,false,false
+HARVARD,"125",T,25027,central,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+CHICOPEE,"61",C,25013,western,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+NORTH ADAMS,"209",C,25003,western,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+HOPEDALE,"138",T,25027,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+SOUTHBOROUGH,"277",T,25027,central,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+WILMINGTON,"342",T,25017,northeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+LUDLOW,"161",T,25013,western,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+SUTTON,"290",T,25027,central,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+LITTLETON,"158",T,25017,northeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+SOUTHBRIDGE,"278",TC,25027,central,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+NORTHBRIDGE,"216",T,25027,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+MATTAPOISETT,"173",T,25023,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+WESTPORT,"334",T,25005,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+MASHPEE,"172",T,25001,southeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+WENDELL,"319",T,25011,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+AMESBURY,"7",C,25009,northeast,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+AUBURN,"17",T,25027,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+HALIFAX,"118",T,25023,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+WESTFIELD,"329",C,25013,western,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+DUDLEY,"80",T,25027,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+BLACKSTONE,"32",T,25027,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+LYNNFIELD,"164",T,25009,northeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+PETERSHAM,"234",T,25027,central,,,false,Rural Towns,Rural Towns,false,false,false,false
+HANSON,"123",T,25023,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+LONGMEADOW,"159",T,25013,western,,,false,Maturing Suburbs,Mature Suburban Towns,false,false,false,false
+NEW BEDFORD,"201",C,25005,southeast,,,false,Regional Urban Centers,Major Regional Urban Centers,false,false,false,true
+CONCORD,"67",T,25017,northeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+MAYNARD,"174",T,25017,northeast,,,false,Maturing Suburbs,Mature Suburban Towns,false,false,false,false
+ESSEX,"92",T,25009,northeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+SALISBURY,"259",T,25009,northeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+CHILMARK,"62",T,25007,southeast,,,false,Rural Towns,Rural Towns,false,false,false,false
+READING,"246",T,25017,northeast,,,false,Maturing Suburbs,Mature Suburban Towns,false,false,false,false
+IPSWICH,"144",T,25009,northeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+ANDOVER,"9",T,25009,northeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+SEEKONK,"265",T,25005,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+NORTH ANDOVER,"210",T,25009,northeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+BARRE,"21",T,25027,central,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+RAYNHAM,"245",T,25005,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+ROWLEY,"254",T,25009,northeast,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+WOBURN,"347",C,25017,northeast,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+NORTH BROOKFIELD,"212",T,25027,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+NAHANT,"196",T,25009,northeast,,,false,Maturing Suburbs,Mature Suburban Towns,false,false,false,false
+SAUGUS,"262",T,25009,northeast,,,false,Maturing Suburbs,Mature Suburban Towns,false,false,false,false
+BELMONT,"26",T,25017,eastern,,,false,Inner Core,Streetcar Suburbs,false,false,false,false
+REVERE,"248",C,25025,eastern,,,true,Inner Core,Metro Core,false,false,false,false
+MELROSE,"178",C,25017,northeast,,,false,Inner Core,Streetcar Suburbs,false,false,false,false
+CHARLTON,"54",T,25027,central,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+STOUGHTON,"285",T,25021,metrosouth,,,false,Maturing Suburbs,Mature Suburban Towns,false,false,false,false
+PITTSFIELD,"236",C,25003,western,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+DENNIS,"75",T,25001,southeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+MILTON,"189",T,25021,metrosouth,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+AVON,"18",T,25021,metrosouth,,,false,Maturing Suburbs,Mature Suburban Towns,false,false,false,false
+BOURNE,"36",T,25001,southeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+UPTON,"303",T,25027,central,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+NORTH ATTLEBOROUGH,"211",TC,25005,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+HOLLISTON,"136",T,25017,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+WEST NEWBURY,"324",T,25009,northeast,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+WAYLAND,"315",T,25017,central,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+SUDBURY,"288",T,25017,central,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+STURBRIDGE,"287",T,25027,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+NATICK,"198",T,25017,central,,,false,Maturing Suburbs,Mature Suburban Towns,false,false,false,false
+BEDFORD,"23",T,25017,northeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+BROOKLINE,"46",T,25021,eastern,,,false,Inner Core,Streetcar Suburbs,false,false,false,false
+EAST LONGMEADOW,"85",T,25013,western,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+WELLESLEY,"317",T,25021,metrosouth,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+MONTEREY,"193",T,25003,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+GILL,"106",T,25011,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+HATFIELD,"127",T,25015,western,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+LUNENBURG,"162",T,25027,central,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+LEE,"150",T,25003,western,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+ROCHESTER,"250",T,25023,southeast,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+GREAT BARRINGTON,"113",T,25003,western,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+PLYMOUTH,"239",T,25023,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+MENDON,"179",T,25027,central,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+WARE,"309",T,25015,western,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+EAST BRIDGEWATER,"83",T,25023,metrosouth,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+BURLINGTON,"48",T,25017,northeast,,,false,Maturing Suburbs,Mature Suburban Towns,false,false,false,false
+MARSHFIELD,"171",T,25023,southeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+WEYMOUTH,"336",TC,25021,metrosouth,,,false,Maturing Suburbs,Mature Suburban Towns,false,false,false,false
+MARLBOROUGH,"170",C,25017,central,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+MANCHESTER,"166",T,25009,northeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+PLAINFIELD,"237",T,25015,western,,,false,Rural Towns,Rural Towns,false,false,false,false
+BERLIN,"28",T,25027,central,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+LEOMINSTER,"153",C,25027,central,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+PAXTON,"228",T,25027,central,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+DEDHAM,"73",T,25021,metrosouth,,,false,Maturing Suburbs,Mature Suburban Towns,false,false,false,false
+WESTMINSTER,"332",T,25027,central,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+CLINTON,"64",T,25027,central,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+EASTHAM,"86",T,25001,southeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+SANDWICH,"261",T,25001,southeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+HARWICH,"126",T,25001,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+TEMPLETON,"294",T,25027,central,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+PALMER,"227",TC,25013,western,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+WATERTOWN,"314",TC,25017,northeast,,,false,Inner Core,Streetcar Suburbs,false,false,false,false
+PHILLIPSTON,"235",T,25027,central,,,false,Rural Towns,Rural Towns,false,false,false,false
+SPENCER,"280",T,25027,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+WESTON,"333",T,25017,northeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+LINCOLN,"157",T,25017,northeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+LENOX,"152",T,25003,western,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+HAMPDEN,"120",T,25013,western,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+RUTLAND,"257",T,25027,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+NORTHAMPTON,"214",C,25015,western,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+HAVERHILL,"128",C,25009,northeast,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+DEERFIELD,"74",T,25011,western,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+HADLEY,"117",T,25015,western,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+AGAWAM,"5",TC,25013,western,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+SOUTHWICK,"279",T,25013,western,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+TYNGSBOROUGH,"301",T,25017,northeast,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+SHREWSBURY,"271",T,25027,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+WEST BOYLSTON,"321",T,25027,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+HOLYOKE,"137",C,25013,western,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+PRINCETON,"241",T,25027,central,,,false,Rural Towns,Rural Towns,false,false,false,false
+ASHLAND,"14",T,25017,central,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+MONSON,"191",T,25013,western,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+LEICESTER,"151",T,25027,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+STERLING,"282",T,25027,central,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+BOYLSTON,"39",T,25027,central,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+MILLBURY,"186",T,25027,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+HOPKINTON,"139",T,25017,central,,,false,Developing Suburbs,Country Suburbs,false,false,false,false
+CARVER,"52",T,25023,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+LAKEVILLE,"146",T,25023,southeast,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+SOMERSET,"273",T,25005,southeast,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+NEWTON,"207",C,25017,eastern,,,false,Inner Core,Streetcar Suburbs,false,false,false,false
+HOLLAND,"135",T,25013,western,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+PROVINCETOWN,"242",T,25001,southeast,,,false,Regional Urban Centers,Sub-Regional Urban Center,false,false,false,false
+CHATHAM,"55",T,25001,southeast,,,false,Maturing Suburbs,Established Suburbs and Cape Cod Towns,false,false,false,false
+LOWELL,"160",C,25017,northeast,,,false,Regional Urban Centers,Major Regional Urban Centers,false,false,false,false
+TOWNSEND,"299",T,25017,central,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
+MEDWAY,"177",T,25021,metrosouth,,,false,Developing Suburbs,Maturing New England Town,false,false,false,false
