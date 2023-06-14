@@ -1,27 +1,29 @@
-"id","name"
-"15","Roslindale"
-"11","Jamaica Plain"
-"13","Mission Hill"
-"28","Longwood"
-"33","Bay Village"
-"27","Leather District"
-"26","Chinatown"
-"14","North End"
-"16","Roxbury"
-"32","South End"
-"2","Back Bay"
-"8","East Boston"
-"4","Charlestown"
-"31","West End"
-"30","Beacon Hill"
-"7","Downtown"
-"34","Fenway"
-"25","Brighton"
-"19","West Roxbury"
-"10","Hyde Park"
-"12","Mattapan"
-"6","Dorchester"
-"29","South Boston Waterfront"
-"17","South Boston"
-"24","Allston"
-"22","Harbor Islands"
+"id","name","official"
+"15","Roslindale",1
+"11","Jamaica Plain",1
+"13","Mission Hill",1
+"28","Longwood",1
+"33","Bay Village",1
+"27","Leather District",1
+"26","Chinatown",1
+"14","North End",1
+"16","Roxbury",1
+"32","South End",1
+"2","Back Bay",1
+"8","East Boston",1
+"4","Charlestown",1
+"31","West End",1
+"30","Beacon Hill",1
+"7","Downtown",1
+"34","Fenway",1
+"25","Brighton",1
+"19","West Roxbury",1
+"10","Hyde Park",1
+"12","Mattapan",1
+"6","Dorchester",1
+"29","South Boston Waterfront",1
+"17","South Boston",1
+"24","Allston",1
+"22","Harbor Islands",1
+35,"Dorchester Center",0
+36,"Roxbury Crossing",0
